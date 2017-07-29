@@ -1,0 +1,29 @@
+/*http://www.colorcombos.com/color-schemes/136/ColorCombo136.html*/
+
+body{
+	padding-top: 70px;
+	background-color: #c7c7c7;
+	color: #636060;
+}
+
+/*.jumbotron{
+	color: #2c3e50;
+	background:#ecf0f1;
+}*/
+
+.navbar-inverse{
+	background-color: #e1a64d;
+}
+
+/*use inspector to find the specific selector for the nav-bar color*/
+.navbar-inverse .navbar-nav>li>a{
+	color:white;
+}
+
+.navbar-inverse .navbar-brand{
+	color:white;
+}
+
+.container .jumbotron{
+	background-color:#1897bd;
+}
